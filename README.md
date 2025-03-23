@@ -87,3 +87,14 @@
 
 <!-- Visitor counter -->
 ![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=green)
+
+## 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 🔥 Recent Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+## 🐍 Contribution Graph
+![Snake animation](https://github.com/KeiAzDev/KeiAzDev/blob/output/github-contribution-grid-snake.svg)
