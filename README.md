@@ -141,8 +141,8 @@ Lua                      1 repo              █░░░░░░░░░░�
 </table> -->
 
 ## 📱 Connect With Me
-[![Twitter: YourTwitterHandle](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle)
-[![Linkedin: YourLinkedIn](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourLinkedIn/)](https://www.linkedin.com/in/YourLinkedIn/)
+[![Twitter: YourTwitterHandle](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/@piyo3code)
+[![Linkedin: YourLinkedIn](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourLinkedIn/)](https://www.linkedin.com/in/keita-azumaguchi/)
 [![GitHub KeiAzDev](https://img.shields.io/github/followers/KeiAzDev?label=follow&style=social)](https://github.com/KeiAzDev)
 
 <details>
