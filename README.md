@@ -118,8 +118,8 @@ Lua                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## 🔥 Recent Activity
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🐍 Contribution Graph
 ![Snake animation](https://github.com/KeiAzDev/KeiAzDev/blob/output/github-contribution-grid-snake.svg)
