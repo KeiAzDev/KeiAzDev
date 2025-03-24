@@ -47,11 +47,12 @@
 
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](https://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-24-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-240.7%20thousand%20lines%20of%20code-blue)
+
 
 **🐱 My GitHub Data** 
 
@@ -157,10 +158,9 @@ Lua                      1 repo              █░░░░░░░░░░�
 <summary>🇯🇵 日本語でのコンタクト情報</summary>
 <br>
 
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- LinkedIn: [あなたのLinkedIn](https://www.linkedin.com/in/YourLinkedIn/)
-- ブログ: [あなたのブログ](https://yourblog.com)
-- メール: your.email@example.com
+- X: [えのぴよ.js](https://twitter.com/@piyo3code)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/keita-azumaguchi/)
+- メール: enopiyo3code+work@gmail.com
 </details>
 
 <!-- Visitor counter -->
