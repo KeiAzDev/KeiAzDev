@@ -40,6 +40,74 @@
 
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-240.7%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 31 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                164 commits         ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+🌆 Daytime                260 commits         ████████████░░░░░░░░░░░░░   46.51 % 
+🌃 Evening                132 commits         ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Tuesday                  73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Wednesday                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Thursday                 72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Friday                   91 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Saturday                 89 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Sunday                   112 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Vancouver
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               21 repos            ██████████████████░░░░░░░   70.00 % 
+JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/KeiAzDev/KeiAzDev/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/03/2025 00:42:42 UTC
 <!--END_SECTION:waka-->
 
 ## 🔥 Recent Activity
