@@ -116,7 +116,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ## 🐍 Contribution Graph
 ![Snake animation](https://github.com/KeiAzDev/KeiAzDev/blob/output/github-contribution-grid-snake.svg)
 
-## 🔥 Featured Projects
+<!-- ## 🔥 Featured Projects
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -138,7 +138,7 @@ Lua                      1 repo              █░░░░░░░░░░�
       </details>
     </td>
   </tr>
-</table>
+</table> -->
 
 ## 📱 Connect With Me
 [![Twitter: YourTwitterHandle](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle)
