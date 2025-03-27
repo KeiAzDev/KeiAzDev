@@ -1,22 +1,22 @@
 # Hi there, I'm Keita Azumaguchi 👋
 
 ## 🚀 About Me
-- 🔭 I'm currently working on building my web development portfolio
-- 🌱 I'm currently learning MERN stack (MongoDB, Express, React, Node.js) and TypeScript
-- 👯 I'm looking to collaborate on web development projects using MERN stack
-- 💬 Ask me about Japanese culture, caregiving experience, or immigrating to Canada
-- 📫 How to reach me: enopiyo3code+work@gmail.com
-- ⚡ Fun fact: I'm passionate about coding and all things tech, worked as a ramen and sushi chef in Canada, and used to be an avid rock climber!
+- 🔭 I'm currently working on building my web development portfolio<br>
+- 🌱 I'm currently learning MERN stack (MongoDB, Express, React, Node.js) and TypeScript<br>
+- 👯 I'm looking to collaborate on web development projects using MERN stack<br>
+- 💬 Ask me about Japanese culture, caregiving experience, or immigrating to Canada<br>
+- 📫 How to reach me: enopiyo3code+work@gmail.com<br>
+- ⚡ Fun fact: I'm passionate about coding and all things tech, worked as a ramen and sushi chef in Canada, and used to be an avid rock climber!<br>
 
 <details>
 <summary>🇯🇵 日本語で自己紹介</summary>
 <br>
-- 🔭 現在の仕事: ウェブ開発ポートフォリオの構築
-- 🌱 学習中: MERNスタック（MongoDB、Express、React、Node.js）とTypeScript
-- 👯 コラボレーション: MERNスタックを使用したウェブ開発プロジェクト
-- 💬 質問歓迎: 日本文化、介護経験、カナダへの移住について
-- 📫 連絡先: enopiyo3code+work@gmail.com
-- ⚡ 趣味: プログラミング・コーディング・PC関連が一番の情熱。カナダでラーメンと寿司のシェフ経験あり、ロッククライミング経験あり
+- 🔭 現在の仕事: ウェブ開発ポートフォリオの構築<br>
+- 🌱 学習中: MERNスタック（MongoDB、Express、React、Node.js）とTypeScript<br>
+- 👯 コラボレーション: MERNスタックを使用したウェブ開発プロジェクト<br>
+- 💬 質問歓迎: 日本文化、介護経験、カナダへの移住について<br>
+- 📫 連絡先: enopiyo3code+work@gmail.com<br>
+- ⚡ 趣味: プログラミング・コーディング・PC関連が一番の情熱。カナダでラーメンと寿司のシェフ経験あり、ロッククライミング経験あり<br>
 </details>
 
 ## 🛠 Skills & Technologies
