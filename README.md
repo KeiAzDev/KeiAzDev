@@ -47,6 +47,8 @@
 
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2045%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-287-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-242.5%20thousand%20lines%20of%20code-blue)
@@ -59,7 +61,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -108,9 +110,9 @@ Mac                      17 hrs 55 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               21 repos            ██████████████████░░░░░░░   70.00 % 
-JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+TypeScript               21 repos            █████████████████░░░░░░░░   67.74 % 
+JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
@@ -120,7 +122,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KeiAzDev/KeiAzDev/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2025 01:39:31 UTC
+ Last Updated on 28/03/2025 02:54:41 UTC
 <!--END_SECTION:waka-->
 
 ## 🔥 Recent Activity
