@@ -47,9 +47,9 @@
 
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-272.2%20thousand%20lines%20of%20code-blue)
 
@@ -92,18 +92,18 @@ Sunday                   136 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-JavaScript               17 hrs 6 mins       ███████████████░░░░░░░░░░   60.85 % 
-Docker                   3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-JSON                     2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-YAML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Pug                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+JavaScript               15 hrs 17 mins      ██████████████░░░░░░░░░░░   56.45 % 
+Docker                   3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+JSON                     3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+YAML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Pug                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🔥 Editors: 
-Neovim                   24 hrs 47 mins      ██████████████████████░░░   88.17 % 
-VS Code                  3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Neovim                   23 hrs 11 mins      █████████████████████░░░░   85.65 % 
+VS Code                  3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 
 💻 Operating System: 
-Mac                      28 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      27 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -121,7 +121,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KeiAzDev/KeiAzDev/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2025 03:07:42 UTC
+ Last Updated on 14/04/2025 01:44:59 UTC
 <!--END_SECTION:waka-->
 
 ## 🔥 Recent Activity
