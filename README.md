@@ -47,15 +47,17 @@
 
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-272.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 438 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,18 +92,18 @@ Sunday                   136 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Python                   1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   38.15 % 
-Text                     49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Lua                      46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-JavaScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Python                   1 hr 36 mins        ███████████░░░░░░░░░░░░░░   42.32 % 
+Text                     43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Lua                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+JavaScript               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 13 mins       █████████████████████████   100.00 % 
+Neovim                   3 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 41 mins       ████████████████░░░░░░░░░   63.83 % 
-Linux                    1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   36.17 % 
+Mac                      2 hrs 16 mins       ███████████████░░░░░░░░░░   59.88 % 
+Linux                    1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   40.12 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +121,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KeiAzDev/KeiAzDev/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2025 01:43:30 UTC
+ Last Updated on 25/04/2025 01:44:08 UTC
 <!--END_SECTION:waka-->
 
 ## 🔥 Recent Activity
