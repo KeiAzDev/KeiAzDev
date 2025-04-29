@@ -49,7 +49,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-272.2%20thousand%20lines%20of%20code-blue)
 
@@ -92,16 +92,16 @@ Sunday                   136 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Python                   1 hr 14 mins        ███████████████████░░░░░░   76.81 % 
-Lua                      17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Python                   31 mins             ███████████████░░░░░░░░░░   58.06 % 
+Lua                      17 mins             ████████░░░░░░░░░░░░░░░░░   32.40 % 
+Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
 
 🔥 Editors: 
-Neovim                   1 hr 37 mins        █████████████████████████   100.00 % 
+Neovim                   53 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 30 mins        ███████████████████████░░   93.20 % 
-Mac                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Linux                    47 mins             ██████████████████████░░░   87.71 % 
+Mac                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +119,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KeiAzDev/KeiAzDev/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2025 01:46:49 UTC
+ Last Updated on 29/04/2025 01:44:48 UTC
 <!--END_SECTION:waka-->
 
 ## 🔥 Recent Activity
