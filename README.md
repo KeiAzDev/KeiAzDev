@@ -47,7 +47,7 @@
 
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,6 +56,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 438 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,16 +92,15 @@ Sunday                   136 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-YAML                     11 mins             ██████████████░░░░░░░░░░░   54.75 % 
-Python                   6 mins              ████████░░░░░░░░░░░░░░░░░   31.84 % 
-TOML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+YAML                     11 mins             ████████████████████░░░░░   80.33 % 
+TOML                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-Neovim                   20 mins             █████████████████████████   100.00 % 
+Neovim                   13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    20 mins             █████████████████████████   100.00 % 
+Linux                    13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,7 +118,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KeiAzDev/KeiAzDev/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2025 01:44:01 UTC
+ Last Updated on 01/05/2025 01:52:48 UTC
 <!--END_SECTION:waka-->
 
 ## 🔥 Recent Activity
