@@ -47,7 +47,7 @@
 
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,15 +92,13 @@ Sunday                   136 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-YAML                     11 mins             ████████████████████░░░░░   80.33 % 
-TOML                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Text                     9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   13 mins             █████████████████████████   100.00 % 
+Neovim                   9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.00 % 
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,7 +116,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KeiAzDev/KeiAzDev/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2025 01:45:53 UTC
+ Last Updated on 07/05/2025 01:46:20 UTC
 <!--END_SECTION:waka-->
 
 ## 🔥 Recent Activity
