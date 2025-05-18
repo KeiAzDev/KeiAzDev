@@ -57,6 +57,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 438 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 34 Public Repositories 
@@ -114,7 +116,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KeiAzDev/KeiAzDev/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2025 01:44:27 UTC
+ Last Updated on 18/05/2025 01:53:08 UTC
 <!--END_SECTION:waka-->
 
 ## 🔥 Recent Activity
