@@ -57,7 +57,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 438 Contributions in the Year 2025
+> 🏆 437 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,9 +104,9 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               21 repos            ███████████████░░░░░░░░░░   58.33 % 
-JavaScript               14 repos            ██████████░░░░░░░░░░░░░░░   38.89 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               21 repos            ███████████████░░░░░░░░░░   60.00 % 
+JavaScript               13 repos            █████████░░░░░░░░░░░░░░░░   37.14 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
@@ -116,7 +116,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KeiAzDev/KeiAzDev/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2025 01:50:10 UTC
+ Last Updated on 21/06/2025 01:48:17 UTC
 <!--END_SECTION:waka-->
 
 ## 🔥 Recent Activity
