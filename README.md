@@ -47,7 +47,7 @@
 
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -116,7 +116,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KeiAzDev/KeiAzDev/main/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2025 01:59:10 UTC
+ Last Updated on 23/06/2025 01:57:36 UTC
 <!--END_SECTION:waka-->
 
 ## 🔥 Recent Activity
